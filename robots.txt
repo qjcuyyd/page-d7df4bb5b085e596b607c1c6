@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://9dix8b.cn/sitemap.xml
